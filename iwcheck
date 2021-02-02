@@ -1,0 +1,17 @@
+#!/bin/bash
+
+loop="1"
+
+while [ $loop = "1" ]
+
+do
+
+	clear
+
+	iwconfig
+
+	sleep 1
+
+	clear
+
+done
