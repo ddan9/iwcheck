@@ -23,7 +23,7 @@
 
 #### Menu:
 
-- [Description ⏪](#iwcheck-(en))
+- [Description ⏪](#iwcheck-en)
 
 - [System requirements ⏪](#For-smooth-installation-required)
 
@@ -115,7 +115,7 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 
 #### Меню:
 
-- [Описание ⏪](#iwcheck-(ru))
+- [Описание ⏪](#iwcheck-ru)
 
 - [Системные требования ⏪](#Для-гладкой-установки-необходимо)
 
