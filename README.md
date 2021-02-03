@@ -34,8 +34,6 @@ iwcheck
 
 - [Uninstall ⏪](#For-uninstall)
 
-- [Manual installation ⏪](#For-manual-install-you-need)
-
 <br />
 
 #### iwcheck
@@ -116,24 +114,6 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 
 <br />
 
-#### For ***manual*** install you need:
-
-> - bash (Maybe something else, i don't know)
-> 
-> - git
->
-> - git clone https://github.com/ddan9/iwcheck into $HOME
->
-> - wireless-tools
->
-> - ln -s $HOME/EBomber/start.sh $HOME/Ebomber.sh
->
-> - iwcheck
-
-[🔙 Menu](#Menu)
-
-<br />
-
 ---
 
 ### Описание на Русском
@@ -150,19 +130,13 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 
 - [Установка на Мобильные ⏪](#Гладкая-установка-на-Мобильные)
 
-- [Обновление ⏪](#Для-обновления)
-
 - [Удаление ⏪](#Для-удаления)
-
-- [Ручная установка ⏪](#Для-ручной-установки-вам-нужно)
-
-- [Авторы ⏪](#Авторы)
 
 <br />
 
-#### Улучшенный Бомбер
+#### iwcheck
  
-Это - пофиксенная с некоторыми изменениями версия SMSBomber'а
+Это просто просто зацикленная программа iwconfig из пакета wireless-tools, которую я сделал просто для удобства
 
 [🔙 Меню](#Меню)
 
@@ -170,7 +144,7 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 
 #### Для ***гладкой*** установки необходимо:
 
-- 💻 ПК: Линукс (Убунту-подобный; 20.04 и выше; Либо просто sudo и apt-based, точно не знаю)
+- 💻 ПК: Линукс (Убунту-подобный; 12.04 и выше; Либо просто sudo и apt-based, точно не знаю)
 
 - 📱 Мобильные: Андроид (С термуксом)
 
@@ -233,29 +207,5 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 > ***Или одной командой:***
 >
 > - rm -rf EBomber && rm -rf EBomber.sh
-
-[🔙 Меню](#Меню)
-
-<br />
-
-#### Для ***ручной*** установки вам нужно:
-
-> - По возможности делать в докере!
->
-> - bash (Может что-то другое, точно не знаю)
->
-> - git
-> 
-> - git clone https://github.com/ddan9/EBomber в вашу $HOME
->
-> - Python3
->
-> - pip3 или python3-pip (в общем, pip из python3)
->
-> - pip3 install -r $HOME/EBomber/config/requirements
->
-> - ln -s $HOME/EBomber/start.sh $HOME/Ebomber.sh
->
-> - bash EBomber.sh
 
 [🔙 Меню](#Меню)
