@@ -12,9 +12,9 @@ if [[ $(which sudo | grep -c sudo) = "1" ]]
 
 	else
 
-		sudo rm -rf $(which iwcheck)
+		rm -rf $(which iwcheck)
 
-		sudo apt-get remove wireless-tools
+		apt-get remove wireless-tools
 
 		rm -rf $HOME/.iwcheck
 
