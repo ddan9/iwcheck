@@ -23,7 +23,7 @@
 
 #### Menu:
 
-- [Description ⏪](#iwcheck)
+- [Description ⏪](#iwcheck-🇺🇸)
 
 - [System requirements ⏪](#For-smooth-installation-required)
 
@@ -35,7 +35,7 @@
 
 <br />
 
-#### iwcheck
+#### iwcheck 🇺🇸
 
 This is just looped iwconfig program from wireless-tools package which I did just for convenience
 
@@ -116,7 +116,7 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 
 #### Меню:
 
-- [Описание ⏪](#iwcheck)
+- [Описание ⏪](#iwcheck-🇷🇺)
 
 - [Системные требования ⏪](#Для-гладкой-установки-необходимо)
 
@@ -128,7 +128,7 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 
 <br />
 
-#### iwcheck
+#### iwcheck 🇷🇺
  
 Это просто просто зацикленная программа iwconfig из пакета wireless-tools, которую я сделал просто для удобства
 
