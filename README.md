@@ -99,9 +99,9 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 
 #### For uninstall:
 
-> ***Step by step:***
+> ***By one command:***
 >
-> 0. bash .iwcheck/remove.sh
+> - bash .iwcheck/remove.sh
 
 [🔙 Menu](#Menu)
 
