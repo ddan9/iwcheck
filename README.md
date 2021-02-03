@@ -116,7 +116,7 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 
 #### Меню:
 
-- [Описание ⏪](#Улучшенный-бомбер)
+- [Описание ⏪](#iwcheck)
 
 - [Системные требования ⏪](#Для-гладкой-установки-необходимо)
 
