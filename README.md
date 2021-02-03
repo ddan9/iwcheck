@@ -129,7 +129,7 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 
 #### iwcheck (ru)
  
-Это просто просто зацикленная программа iwconfig из пакета wireless-tools, которую я сделал просто для удобства
+Это просто зацикленная программа iwconfig из пакета wireless-tools, которую я сделал просто для удобства
 
 [🔙 Меню](#Меню)
 
@@ -153,15 +153,15 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 >
 > 1. sudo apt-get install -y git
 >
-> 2. git clone https://github.com/ddan9/EBomber
+> 2. git clone https://github.com/ddan9/iwcheck
 > 
-> 3. bash EBomber/install.sh
+> 3. bash iwcheck/install.sh
 >
-> 4. bash EBomber.sh
+> 4. sudo iwcheck
 >
 > ***Или одной командой:***
 >
-> - sudo apt-get update && sudo apt-get install -y git && git clone https://github.com/ddan9/EBomber && bash EBomber/install.sh && bash EBomber.sh
+> - sudo apt-get update && sudo apt-get install -y git && git clone https://github.com/ddan9/iwcheck && bash iwcheck/install.sh && sudo iwcheck
 
 [🔙 Меню](#Меню)
 
@@ -175,15 +175,15 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 >
 > 1. apt-get install -y git
 >
-> 2. git clone https://github.com/ddan9/EBomber
+> 2. git clone https://github.com/ddan9/iwcheck
 > 
-> 3. bash EBomber/install.sh
+> 3. bash iwcheck/install.sh
 >
-> 4. bash EBomber.sh
+> 4. iwcheck
 >
 > ***Или одной командой:***
 >
-> - apt-get update && apt-get install -y git && git clone https://github.com/ddan9/EBomber && bash EBomber/install.sh && bash EBomber.sh
+> - apt-get update && apt-get install -y git && git clone https://github.com/ddan9/iwcheck && bash iwcheck/install.sh && iwcheck
 
 [🔙 Меню](#Меню)
 
@@ -191,14 +191,8 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 
 #### Для удаления:
 
-> ***Шаг за шагом:***
+> ***Одной командой:***
 >
-> 0. rm -rf EBomber
->
-> 1. rm -rf EBomber.sh
->
-> ***Или одной командой:***
->
-> - rm -rf EBomber && rm -rf EBomber.sh
+> - bash .iwcheck/remove.sh
 
 [🔙 Меню](#Меню)
