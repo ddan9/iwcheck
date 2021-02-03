@@ -29,11 +29,9 @@
 
 - [Installation on PC ⏪](#Smooth-installation-on-PC)
 
-- [Uninstall from PC ⏪](#For-uninstall)
-
 - [Installation on Mobile ⏪](#Smooth-installation-on-Mobile)
 
-- [Uninstall from Mobile ⏪](#For-uninstall)
+- [Uninstall ⏪](#For-uninstall)
 
 <br />
 
@@ -61,9 +59,9 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 >
 > 0. sudo apt-get update
 >
-> 1. sudo apt-get install -y wget wireless-tools
+> 1. sudo apt-get install -y git
 >
-> 2. sudo wget https://github.com/ddan9/iwcheck/blob/main/iwcheck
+> 2. git clone https://github.com/ddan9/iwcheck
 >
 > 3. bash iwcheck/install.sh
 >
@@ -103,13 +101,8 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 
 > ***Step by step:***
 >
-> 0. 
+> 0. bash .iwcheck/remove.sh
 >
-> 1. rm -rf EBomber.sh
->
-> ***Or by one command:***
->
-> - rm -rf EBomber && rm -rf EBomber.sh
 
 [🔙 Menu](#Menu)
 
