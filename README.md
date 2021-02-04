@@ -196,3 +196,21 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 > - bash .iwcheck/remove.sh
 
 [🔙 Меню](#Меню)
+
+</br>
+
+#### Для ***ручной*** установки вам нужно:
+
+> - bash
+>
+> - пакет wireless-tools
+>
+> - git
+>
+> - git clone https://github.com/ddan9/iwcheck
+>
+> - cp iwcheck/iwcheck /usr/bin/iwcheck
+>
+> - chmod +x /usr/bin/iwcheck
+>
+> - mv iwcheck ./.iwcheck
