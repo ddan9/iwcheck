@@ -33,6 +33,10 @@
 
 - [Uninstall ⏪](#For-uninstall)
 
+- [Manual installation ⏪](#For-manual-install-you-need)
+
+- [Authors ⏪](#Authors)
+
 <br />
 
 #### iwcheck (en)
@@ -107,6 +111,35 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 
 <br />
 
+
+#### For ***manual*** install you need:
+
+> - bash
+>
+> - wireless-tools package
+>
+> - git
+>
+> - git clone https://github.com/ddan9/iwcheck
+>
+> - cp iwcheck/iwcheck /usr/bin/iwcheck
+>
+> - chmod +x /usr/bin/iwcheck
+>
+> - mv iwcheck ./.iwcheck
+
+[🔙 Menu](#Menu)
+
+<br />
+
+#### Authors
+
+Creator of wireless-tools package: http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html 👈
+
+Creator of script: https://github.com/ddan9 👈
+
+[🔙 Menu](#Menu)
+
 ---
 
 ### Описание на Русском
@@ -124,6 +157,10 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 - [Установка на Мобильные ⏪](#Гладкая-установка-на-Мобильные)
 
 - [Удаление ⏪](#Для-удаления)
+
+- [Ручная установка ⏪](#Для-ручной-установки-вам-нужно)
+
+- [Авторы ⏪](#Авторы)
 
 <br />
 
@@ -214,3 +251,15 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 > - chmod +x /usr/bin/iwcheck
 >
 > - mv iwcheck ./.iwcheck
+
+[🔙 Меню](#Меню)
+
+<br />
+
+#### Авторы
+
+Создатель пакета wireless-tools: http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html 👈
+
+Создатель скрипта: https://github.com/ddan9 👈
+
+[🔙 Меню](#Меню)
