@@ -114,16 +114,15 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 
 #### For ***manual*** install you need:
 
-> - bash
+> - bash (Maybe something else, i don't know)
 >
-> - wireless-tools package (Maybe something else, i don't know)
+> - wireless-tools package (To install it on termux, you will need to additionally install the root-repo package)
 >
 > - git
 >
 > - git clone https://github.com/ddan9/iwcheck into $HOME
 >
-> - cp iwcheck/iwcheck /usr/bin/iwcheck 
-(Or into another similar directory)
+> - cp iwcheck/iwcheck /usr/bin/iwcheck (Or into another similar directory)
 >
 > - chmod +x /usr/bin/iwcheck
 >
@@ -241,7 +240,7 @@ Creator of script: https://ddan9.github.io 👈
 
 > - bash (Может что-то другое, точно не знаю)
 >
-> - пакет wireless-tools
+> - пакет wireless-tools (Для его установки на термуксе потребуется дополнительно установить пакет root-repo)
 >
 > - git
 >
