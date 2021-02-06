@@ -123,7 +123,7 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 > - git clone https://github.com/ddan9/iwcheck into $HOME
 >
 > - cp iwcheck/iwcheck /usr/bin/iwcheck 
-(or into another similar directory)
+(Or into another similar directory)
 >
 > - chmod +x /usr/bin/iwcheck
 >
@@ -137,7 +137,7 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 
 Creator of wireless-tools package: http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html 👈
 
-Creator of script: ddan9.github.com/ddan9 👈
+Creator of script: https://ddan9.github.io 👈
 
 [🔙 Menu](#Menu)
 
@@ -247,7 +247,7 @@ Creator of script: ddan9.github.com/ddan9 👈
 >
 > - git clone https://github.com/ddan9/iwcheck в вашу $HOME
 >
-> - cp iwcheck/iwcheck /usr/bin/iwcheck (либо в другую подобную директорию)
+> - cp iwcheck/iwcheck /usr/bin/iwcheck (Либо в другую подобную директорию)
 >
 > - chmod +x /usr/bin/iwcheck
 >
