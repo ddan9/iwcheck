@@ -116,13 +116,14 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 
 > - bash
 >
-> - wireless-tools package
+> - wireless-tools package (Maybe something else, i don't know)
 >
 > - git
 >
-> - git clone https://github.com/ddan9/iwcheck
+> - git clone https://github.com/ddan9/iwcheck into $HOME
 >
-> - cp iwcheck/iwcheck /usr/bin/iwcheck
+> - cp iwcheck/iwcheck /usr/bin/iwcheck 
+(or into another similar directory)
 >
 > - chmod +x /usr/bin/iwcheck
 >
@@ -136,7 +137,7 @@ This is just looped iwconfig program from wireless-tools package which I did jus
 
 Creator of wireless-tools package: http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html 👈
 
-Creator of script: https://github.com/ddan9 👈
+Creator of script: ddan9.github.com/ddan9 👈
 
 [🔙 Menu](#Menu)
 
@@ -238,15 +239,15 @@ Creator of script: https://github.com/ddan9 👈
 
 #### Для ***ручной*** установки вам нужно:
 
-> - bash
+> - bash (Может что-то другое, точно не знаю)
 >
 > - пакет wireless-tools
 >
 > - git
 >
-> - git clone https://github.com/ddan9/iwcheck
+> - git clone https://github.com/ddan9/iwcheck в вашу $HOME
 >
-> - cp iwcheck/iwcheck /usr/bin/iwcheck
+> - cp iwcheck/iwcheck /usr/bin/iwcheck (либо в другую подобную директорию)
 >
 > - chmod +x /usr/bin/iwcheck
 >
@@ -260,6 +261,6 @@ Creator of script: https://github.com/ddan9 👈
 
 Создатель пакета wireless-tools: http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html 👈
 
-Создатель скрипта: https://github.com/ddan9 👈
+Создатель скрипта: https://ddan9.github.io 👈
 
 [🔙 Меню](#Меню)
