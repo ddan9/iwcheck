@@ -27,6 +27,8 @@
 
 - [Description ⏪](#iwcheck-en)
 
+- [Example of work](#iwcheck-example-of-work)
+
 - [System requirements ⏪](#For-smooth-installation-required)
 
 - [Installation on PC ⏪](#Smooth-installation-on-PC)
