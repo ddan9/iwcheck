@@ -7,6 +7,8 @@
 |_____| \_/\_/ |_____||_| |_||_____||_____||_| \_\
 ```
 
+![ < iwcheck example of work > ](iwcheck.gif)
+
 ### Language translations
 
 - [🇺🇸 Description in English](#Description-in-English)
