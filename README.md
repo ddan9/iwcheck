@@ -43,7 +43,7 @@
 
 #### iwcheck (en)
 
-This is just looped iwconfig program from wireless-tools package which I did just for convenience
+This is just looped iwconfig program from wireless-tools package which I did just for convenience. Designed to receive updated information about the quality of the network connection
 
 [🔙 Menu](#Menu)
 
@@ -168,7 +168,7 @@ Creator of script: https://ddan9.github.io 👈
 
 #### iwcheck (ru)
  
-Это просто зацикленная программа iwconfig из пакета wireless-tools, которую я сделал просто для удобства
+Это просто зацикленная программа iwconfig из пакета wireless-tools, которую я сделал просто для удобства. Предназначена для получения обновляемой информации о качестве сетевого соединения
 
 [🔙 Меню](#Меню)
 
