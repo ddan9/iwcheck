@@ -21,7 +21,7 @@ if [[ $(which sudo | grep -c sudo) = "1" ]]
 
 	then
 
-		sudo apt install -y sudo
+		sudo apt-get install -y sudo
 
 		sudo apt-get update
 
@@ -29,7 +29,7 @@ if [[ $(which sudo | grep -c sudo) = "1" ]]
 
 		sudo apt-get install -y wireless-tools
 
-		sudo apt dist-upgrade -y
+		sudo apt-get dist-upgrade -y
 
 		sudo cp $HOME/iwcheck/iwcheck /usr/sbin/iwcheck
 
@@ -49,7 +49,7 @@ if [[ $(which sudo | grep -c sudo) = "1" ]]
 
 		apt-get install -y wireless-tools
 
-		apt dist-upgrade -y
+		apt-get dist-upgrade -y
 
 		cp $HOME/iwcheck/iwcheck $HOME/../usr/bin/iwcheck
 
