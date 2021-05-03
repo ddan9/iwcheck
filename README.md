@@ -43,7 +43,7 @@
 
 #### iwcheck (en)
 
-This is just looped iwconfig program from wireless-tools package which I did just for convenience. Designed to receive updated information about the quality of the network connection
+This is just looped iwconfig program from wireless-tools package which I made just for convenience. Designed to receive updated information about the quality of the network connection
 
 [🔙 Menu](#Menu)
 
